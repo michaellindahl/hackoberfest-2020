@@ -1,5 +1,5 @@
 # Hackoberfest 2020
 
-Because the t-shirt is nice and it's white this year. To get the tshirt I gotta:
+Because the t-shirt is nice and it's white this year. To get the tshirt:
 
-- [ ] Merge 4 PRs
+- [x] Merge 4 PRs
